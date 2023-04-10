@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for visiting my profile ^_^
+## Hi there 👋 Thank you for visiting my profile ^_^
 
 - 😄 Pronouns: He/Him/His 
 - 🧑🏻‍🏫 I currently attend Pasadena City College.
