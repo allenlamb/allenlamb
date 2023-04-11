@@ -7,4 +7,5 @@
 - 🔮 In Fall 2023, I will transfer to the University of California, Irvine as a Data Science major.
 - ⚡ Fun fact: I currently tutor computer science (C++, Java, Python) and mathematics at Pasadena City College! 
 
-## Here are some of my [projects](https://github.com/allenlamb/projects/blob/main/README.md)! 💾
+### Here are some of my [projects](https://github.com/allenlamb/projects/blob/main/README.md)! 💾
+### Feel free to also take a look at my [resume] 📄and my [LinkedIn](https://www.linkedin.com/in/alam23/) 👔
