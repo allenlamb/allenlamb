@@ -5,6 +5,6 @@
 - 🔭 I’m currently enrolled in the IT Academy powered by Microsoft as an Academy Scholar!
 - 🌱 I’m currently learning web development, cybersecurity, and IT!
 - 🔮 In Fall 2023, I will transfer to the University of California, Irvine as a Data Science major.
-- ⚡ Fun fact: I currently tutor computer science and mathematics at Pasadena City College! 
+- ⚡ Fun fact: I currently tutor computer science (C++, Java, Python) and mathematics at Pasadena City College! 
 
 ### Here are some of my projects 🧑‍💻
