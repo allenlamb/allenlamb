@@ -1,10 +1,8 @@
 ## Hi there 👋 Thank you for visiting my profile 😸
 
 - 😄 Pronouns: He/Him/His 
-- 🧑🏻‍🏫 I currently attend Pasadena City College.
 - 💻 I currently tutor computer science (C++, Java, Python) and mathematics at Pasadena City College! 
-- 🔭 I’m currently enrolled in the IT Academy powered by Microsoft as an Academy Scholar!
-- 🌱 I’m currently learning web development, cybersecurity, and IT!
+- 🌱 I’m currently learning web development, and app development!
 - 🔮 In Fall 2023, I will transfer to the University of Southern California as a Computer Science Major
 - ⚡ Fun fact: I'm left handed and I love coffee and cats
 
