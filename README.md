@@ -1,6 +1,6 @@
 ## Hi there 👋 Thank you for visiting my profile 😸
 
-- 😄 Pronouns: He/Him/His 
+- 😄 Pronouns: He/Him
 - 💻 I currently tutor computer science (C++, Java, Python) and mathematics at Pasadena City College! 
 - 🌱 I’m currently learning web development, and app development!
 - 🔮 In Fall 2023, I will transfer to the University of Southern California as a Computer Science Major
